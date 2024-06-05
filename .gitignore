@@ -47,3 +47,6 @@ captures/
 !gradle/wrapper/gradle-wrapper.jar
 .gradle
 gradle
+
+### Mac OS ###
+.DS_Store
